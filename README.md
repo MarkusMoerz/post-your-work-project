@@ -1,9 +1,6 @@
->**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
+# Bikeshare Project
 
-
-# Project Title
-
-Describe what your project is about and what it does
+The goal of the Bikeshare project is to use Python to explore data related to bike share systems
 
 ## Information about how to use your project
 
