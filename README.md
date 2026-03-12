@@ -17,7 +17,7 @@ If you want to contribute to the project please contact me on GitHub or make a p
 
 ## Credits
 
-Thanks to [Google](https://www.google.com/) for contributing to the project.
+Thanks to [Google](https://www.google.com/) for contributing to the project. Thanks for always helping!
 
 ## Date created
 
