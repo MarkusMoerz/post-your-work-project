@@ -2,18 +2,18 @@
 
 The goal of the Bikeshare project is to use Python to explore data related to bike share systems
 
-## Information about how to use your project
+## How to use this project
 
-This could include:
+Please follow these steps:
 
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+- Specify a city, month and day to analyze which **US bikeshares** are available.
+- Statistics of the *most frequent times of travel* are available.
+- Statistics of the *most popular stations and trips* are available.
+- Statistics of the *total and average trip duration* are available.
 
 ## Contribution guidelines
 
-If you welcome contributions, provide guidelines on how others can contribute to your project.
+If you want to contribute to the project please contact me on GitHub or make a pull request.
 
 ## Credits
 
